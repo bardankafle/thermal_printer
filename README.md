@@ -22,4 +22,5 @@ This project is a software implementation for controlling the Adafruit thermal p
 3. Enter printing text and submit
 4. Thermal Printer prints the text on receipt paper
 
-
+# Contact
+If you have any issues or suggestions, please contact me on my github page.
